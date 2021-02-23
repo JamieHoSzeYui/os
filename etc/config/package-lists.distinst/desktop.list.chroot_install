@@ -3,4 +3,10 @@ elementary-desktop
 elementary-minimal
 elementary-standard
 
+# Missing packages
+git 
+neofetch
+curl
+
+
 @XORG_HWE

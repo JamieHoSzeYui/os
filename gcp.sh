@@ -20,5 +20,7 @@ docker run --privileged -i -v /proc:/proc \
 debian:latest \
 /bin/bash -s etc/terraform-daily-6.0-azure.conf < build.sh
 
+OP=$(realpath builds/*/*.iso)
 # bye
 echo "Build done !"
+echo "Final iso located on $OP"

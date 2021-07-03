@@ -7,5 +7,6 @@ elementary-standard
 git 
 neofetch
 curl
+libssl-dev
 
 @XORG_HWE

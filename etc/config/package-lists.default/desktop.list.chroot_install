@@ -8,5 +8,8 @@ git
 neofetch
 curl
 libssl-dev
+ccache
+python-is-python3
+python3-pip
 
 @XORG_HWE
